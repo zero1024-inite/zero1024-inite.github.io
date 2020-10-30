@@ -1,0 +1,13 @@
+AE最重要的问题就是提取显式的aspects、实体、aspect categories和OTE（Opinion Target Expressions），在这些上面有表达的情感。
+
+这里，“显式的” 的意思是，这些直接在文本里有。比如“the camera of this mobile phone is great”就是显式的，an explicit aspect: camera; explicit entity: mobile phone。 aspect category 是实体和这个实体的一个属性的组合对，比如“This mobile looks great but expensive”有两个aspect category:
+
+“MOBILE#APPERANCE” and “MOBILE#PRICE”,然后这里的OTE是mobie，因为用户在targeting the mobile’s attribute。
+
+OTE extraction37
+LRR
+LRNN
+LRNN-ASR
+Higher aspect representation
+
+
