@@ -14,7 +14,7 @@
       
       <guid>https://zero1024-inite.github.io/posts/my-first-post/</guid>
       <description>##dajiahao
- git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支  </description>
+ hugo new post/first.md git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支 hugo &amp;ndash;theme=hugo-ivy &amp;ndash;baseUrl=&amp;ldquo;https://zero1024-inite.github.io/&amp;quot;  </description>
     </item>
     
   </channel>

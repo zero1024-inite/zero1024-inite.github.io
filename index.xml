@@ -6,7 +6,17 @@
     <description>Recent content on Hugo Ivy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 13:16:55 +0800</lastBuildDate><atom:link href="https://zero1024-inite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 22:16:51 +0800</lastBuildDate><atom:link href="https://zero1024-inite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://zero1024-inite.github.io/post/2020/11/30/first/</link>
+      <pubDate>Mon, 30 Nov 2020 22:16:51 +0800</pubDate>
+      
+      <guid>https://zero1024-inite.github.io/post/2020/11/30/first/</guid>
+      <description>##dajiahao
+ git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://zero1024-inite.github.io/posts/my-first-post/</link>
@@ -14,7 +24,7 @@
       
       <guid>https://zero1024-inite.github.io/posts/my-first-post/</guid>
       <description>##dajiahao
- git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支  </description>
+ hugo new post/first.md git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支 hugo &amp;ndash;theme=hugo-ivy &amp;ndash;baseUrl=&amp;ldquo;https://zero1024-inite.github.io/&amp;quot;  </description>
     </item>
     
   </channel>

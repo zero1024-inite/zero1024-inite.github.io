@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Ivy</title>
+    <link>https://zero1024-inite.github.io/post/</link>
+    <description>Recent content in Posts on Hugo Ivy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 22:16:51 +0800</lastBuildDate><atom:link href="https://zero1024-inite.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://zero1024-inite.github.io/post/2020/11/30/first/</link>
+      <pubDate>Mon, 30 Nov 2020 22:16:51 +0800</pubDate>
+      
+      <guid>https://zero1024-inite.github.io/post/2020/11/30/first/</guid>
+      <description>##dajiahao
+ git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  </description>
+    </item>
+    
+  </channel>
+</rss>
