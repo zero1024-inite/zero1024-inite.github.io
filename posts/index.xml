@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Hugo Ivy</title>
+    <link>https://zero1024-inite.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo Ivy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 13:16:55 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 13:16:55 +0800</lastBuildDate><atom:link href="https://zero1024-inite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Fri, 30 Oct 2020 13:16:55 +0800</pubDate>
+      <link>https://zero1024-inite.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Nov 2020 13:16:55 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>##dajiahao</description>
+      <guid>https://zero1024-inite.github.io/posts/my-first-post/</guid>
+      <description>##dajiahao
+ git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支  </description>
     </item>
     
   </channel>
