@@ -14,7 +14,7 @@
       
       <guid>https://zero1024-inite.github.io/post/2020/11/30/first/</guid>
       <description>##dajiahao
- git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  </description>
+ git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  config.toml</description>
     </item>
     
   </channel>

@@ -14,7 +14,7 @@
       
       <guid>https://zero1024-inite.github.io/post/2020/11/30/first/</guid>
       <description>##dajiahao
- git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  </description>
+ git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页”  config.toml</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://zero1024-inite.github.io/posts/my-first-post/</guid>
       <description>##dajiahao
- hugo new post/first.md git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支 hugo &amp;ndash;theme=hugo-ivy &amp;ndash;baseUrl=&amp;ldquo;https://zero1024-inite.github.io/&amp;quot;  </description>
+ hugo new post/first.md git branch -a git checkout 想要操作的分支 git add * git commit -m “更改主页” git push -u origin 想要操作的分支 hugo &amp;ndash;theme=hugo-ivy &amp;ndash;baseUrl=&amp;ldquo;https://zero1024-inite.github.io/&amp;quot; 需要注意posts下的东西不会生成html，另外draft记得改为false，发布时间比 Hugo 构建当前站点的时间要早  </description>
     </item>
     
   </channel>
